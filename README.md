@@ -1,4 +1,4 @@
-# urna
+# urna eltronica
 
 Urna eletronica feito em html, css e js
 
